@@ -24,3 +24,4 @@ for s in stars_data_array:
     for _ in range(s):
         print("*", end=" ")
     print()
+
